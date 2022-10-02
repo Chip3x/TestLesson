@@ -1,6 +1,6 @@
 package org.example;
 
-public class HomeWorkApp {
+public class Lesson1 {
     public static void main(String[] args) {
         printThreeWords("Orange", "Banana", "Apple");
         checkSumSign(3,5);
